@@ -1,0 +1,21 @@
+10.write the names of 10 cloud providers?
+
+
+sol.Here are some of the most popular cloud providers
+
+1.Amazon Web Services (AWS)
+2.Microsoft Azure
+3.Google Cloud Platform (GCP)
+4.IBM Cloud
+5.Oracle Cloud
+6.Alibaba Cloud
+7.Salesforce Cloud
+8.VMware Cloud
+9.Rackspace Cloud
+10.DigitalOcean
+
+
+
+
+
+

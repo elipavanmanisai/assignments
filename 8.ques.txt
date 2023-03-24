@@ -1,0 +1,37 @@
+8.Diffrence between following definitions?
+
+Waterfall Model: A traditional software development model that follows a sequential process with clearly defined phases such as requirements gathering, design, development, testing, and maintenance. Each phase is completed before moving on to the next, and there is little room for changes once a phase is completed.
+
+
+
+Agile: An iterative and collaborative approach to software development that values flexibility and adaptability. Agile teams work in short iterations or sprints to deliver working software quickly and respond to changing requirements. The Agile methodology emphasizes close collaboration between team members and the customer, and continuous feedback and improvement.
+
+
+DevOps: A methodology that combines development and operations teams to create a culture of collaboration and continuous delivery. DevOps emphasizes automation, monitoring, and feedback to ensure that software can be developed and deployed quickly and reliably. The goal is to create a seamless and efficient pipeline from development to production, with a focus on delivering high-quality software quickly and efficiently.
+
+
+
+Scrum: Scrum is an iterative and incremental framework for Agile software development that emphasizes teamwork, collaboration, and communication among team members. It involves time-boxed sprints, typically two to four weeks, and well-defined roles and ceremonies to deliver a potentially shippable product increment at the end of each sprint.
+
+
+Kanban: it is a visual workflow management system that focuses on limiting work in progress (WIP) to improve the flow of work and increase efficiency. . 
+
+
+Git: Git is a distributed version control system that allows developers to track changes to code and collaborate on projects.Git is open-source, free to use, and widely adopted by the developer community.
+
+
+BitBucket:it is a web-based version control repository hosting service, similar to GitLab or GitHub.It provides a central location for storing code and collaborating on project.
+
+
+IVCS: it stands for Integrated Version Control System, which is a centralized system that stores the entire codebase on a central server and allows multiple developers to work on it simultaneously.
+
+
+CVCS: it stands for Centralized Version Control System, which is a version control system that stores the codebase in a central repository and allows multiple developers to work on it by checking out and committing changes to the central server.
+
+DVCS: it stands for Distributed Version Control System, which is a decentralized system that allows developers to work on their own local copies of the entire codebase and sync changes with other developers' copies as needed.
+
+
+DOS (Disk Operating System): it is a command-line operating system that was widely used on personal computers in the 1980s and 1990s  
+
+
+Windows: it is a graphical user interface (GUI) operating system developed by Microsoft that has since become the dominant operating system for personal computers.

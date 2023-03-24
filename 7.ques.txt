@@ -1,0 +1,34 @@
+7.write the various stages of agile methodology?
+
+sol.  Agile methodology consists of the following stages
+         1.planning
+         2.Requirement analysis
+         3.Design
+         4.implementation
+         5.Testing
+         6.Deployment
+         7.Monitoring
+         8.Maintainence
+
+
+
+
+Planning: This stage involves defining project goals, creating a backlog of work items, and determining priorities.
+
+Requirement analysis: In this stage, the development team analyzes the requirements and goals of the project to create user stories and define acceptance criteria.
+
+Design: The design stage involves creating a high-level design of the system or application, including architecture, user interface, and database design.
+
+Implementation: This is the stage where the development team builds and codes the system or application.
+
+Testing: In this stage, the system or application is thoroughly tested to ensure it meets the acceptance criteria and quality standards.
+
+Deployment: This stage involves deploying the system or application to the production environment.
+
+Monitoring: Once the system or application is live, it is continually monitored to ensure it is functioning correctly and to detect and resolve any issues.
+
+Maintenance: The final stage of Agile methodology involves maintaining the system or application, including bug fixes, enhancements, and updates based on user feedback.
+
+It is important to note that Agile methodology is an iterative approach, which means that the development process is repeated in cycles until the project is completed. The stages listed above are typically carried out in each iteration of the development process.
+
+ 

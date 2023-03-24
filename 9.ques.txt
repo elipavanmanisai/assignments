@@ -1,0 +1,22 @@
+9.write the names of 15 devops tools
+
+
+sol.Here are the names of popular DevOps tools:
+
+1.Jenkins
+2.GitLab CI/CD
+3.Travis CI
+4.CircleCI
+5.GitHub Actions
+6.Ansible
+7.Puppet
+8.Chef
+9.Terraform
+10.Docker
+11.Kubernetes
+12.Nagios
+13.Splunk
+14.ELK Stack (Elasticsearch, Logstash, Kibana)
+15.Prometheus
+16.Grafana
+

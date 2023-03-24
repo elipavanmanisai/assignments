@@ -1,0 +1,47 @@
+5.what is sheel script? write the below programs
+
+sol.A shell script is a program written in a scripting language that is executed by a command-line shell, which automates repetitive tasks, performs system maintenance, and manages system configurations.
+
+1.Hello world program:
+#! /bin/bash
+#this is first program
+echo "hello world"
+
+2.Operators program:
+#! /bin/bash
+#operators
+a=10
+b=20
+sum=`expr $a + $b`
+sub=`expr $a - $b`
+mul=`expr $a \* $b`
+div=`expr $a / $b`
+mod=`expr $a % $b`
+echo "sum:$sum"
+echo "sub:$sub"
+echo "mul:$mul"
+echo "div:$div"
+echo "mod:$mod"
+
+
+3.Control statements:
+#! /bin/bash
+#even odd
+a=15
+if [ `expr $a % 2` -eq 0  ]
+then
+        echo "even"
+else
+        echo "odd"
+fi
+
+4.Function program:
+#!/bin/bash
+
+# define a function
+greet() {
+  echo "Hello, $1!"
+}
+
+# call the function
+greet "John"

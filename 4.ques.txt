@@ -1,0 +1,39 @@
+4.what is operating system write 20 commands of linux os?
+
+sol.Operating system is a software that supports a computers basic functions such as scheduling tasks and controlling periperals
+
+the linux os commands are
+
+ls - List directory contents
+cd - Change the current working directory
+pwd - Print the current working directory
+mkdir - Create a new directory
+rm - Remove a file or directory
+cp - Copy a file or directory
+mv - Move a file or directory
+cat - Display the contents of a file
+head - Display the first few lines of a file
+tail - Display the last few lines of a file
+grep - Search for a pattern in a file
+find - Search for files and directories based on various criteria
+ps - Display information about running processes
+top - Display system resource usage and running processes
+kill - Terminate a running process
+ping - Test network connectivity
+ifconfig - Configure network interfaces
+netstat - Display network connections and their status
+uname - Display system information, such as the kernel version and hostname
+whoami - Print the current user name
+sudo - Run a command with administrative privileges
+shutdown - Power off or reboot the system
+reboot - Restart the system
+tar - Create or extract compressed archive files
+apt - Package management command for Debian-based distributions
+yum - Package management command for Red Hat-based distributions
+ssh - Securely connect to a remote server
+scp - Securely copy files between systems over a network
+chmod - Change the permissions of a file or directory
+chown - Change the owner and group of a file or directory.
+
+
+

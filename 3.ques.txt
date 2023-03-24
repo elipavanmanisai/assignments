@@ -1,0 +1,22 @@
+3.Explain Waterfall model,Agile and Devops in brief?
+
+sol.The main purpose of the methods in realtime projects are
+1.On Time Delivary
+2.Reduce Capex And Opex
+3.Quality Product
+4.Reduce Outage
+
+
+Waterfall Model:
+The Waterfall Model is a linear, sequential approach to software development. It involves completing each phase of the development process before moving onto the next one. The phases include requirements gathering, design, implementation, testing, and maintenance. Once a phase is completed, the project moves onto the next phase in a sequential manner, and each phase has its own defined set of deliverables. The Waterfall Model is commonly used for large, complex projects with clearly defined requirements.
+
+
+Agile:
+Agile is a methodology that emphasizes flexibility and adaptability in the software development process. It involves breaking the development process into smaller, iterative cycles called sprints. Each sprint focuses on delivering a specific set of features or functionality, with regular meetings and feedback loops to ensure progress and address any issues. Agile methodologies prioritize collaboration, communication, and a willingness to adapt to changing requirements throughout the development process.
+
+DevOps:
+DevOps is a set of practices that aims to unify the development and operations teams to create a more efficient and streamlined software development process. DevOps emphasizes collaboration, communication, and automation to ensure that development and operations work together seamlessly. DevOps teams use continuous integration and continuous delivery (CI/CD) pipelines to automate the building, testing, and deployment of software. This enables faster, more frequent releases while maintaining quality and stability.
+
+
+
+
